@@ -19,7 +19,7 @@ You totally need these:
 
 We use nevermore in out kit, so you can completely skip official `exhaust filter` folder.
 
-Print these parts to seal the back panel.
+Print these parts to seal the back panel:
 
 1pcs `Exhaust_cover.stl`
 
@@ -76,7 +76,7 @@ Use `power_inlet_IECGS_1.2mm.stl` and skip other `power_inlet_*`
 
 ## Z Endstop
 
-Skip this folder, we use voron tap as z endstop. 
+Skip this folder, we use VORON Tap as z endstop. 
 
 
 ## VORON Tap

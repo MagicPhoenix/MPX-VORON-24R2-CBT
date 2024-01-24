@@ -2,29 +2,31 @@
 
 ## Electronics_Bay
 
-Completely skip offical `electronics_bay` folder.
+Completely skip official `electronics_bay` folder.
 
 Print our printed parts name started with `Elec`
 
 You totally need these:
 
-2 pcs `Elec_Din_Clip_x2.stl`
+2pcs `Elec_Din_Clip_x2.stl`
 
-4 pcs `Elec_LRS_200_Mount_x4.STL`
+4pcs `Elec_LRS_200_Mount_x4.STL`
 
 1pcs `Elec_M8P_Mount.STL`
 
+
 ## Exhaust Filter
 
-We use nevermore in out kit, so you can completely skip offical `exhaust filter` folder.
+We use nevermore in out kit, so you can completely skip official `exhaust filter` folder.
 
-print these parts to seal the back panel.
+Print these parts to seal the back panel.
 
 1pcs `Exhaust_cover.stl`
 
 1pcs `Exhaust_filter_grill.stl`
 
-> this mod comes from Fictio's [Exhaust_cover](Fiction/https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Fiction/Exhaust_cover)
+> This mod comes from Fictio's [Exhaust_cover](Fiction/https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Fiction/Exhaust_cover)
+
 
 ## Gantry
 
@@ -46,11 +48,13 @@ Skip these parts:
 
 `STLs/Gantry/X_Axis/Z_Joints/z_joint_upper_hall_effect.stl`
 
+
 ## Panel_Mounting
 
 Use `deck_support_3mm_x8.stl` and skip the 4mm one.
 
-### If you are using Disco Strick:
+
+### If you are using Disco Stick:
 
 Skip `Z_belt_Cover` and use our `Panel_Z_Belt Cover`:
 
@@ -64,26 +68,24 @@ Skip `Z_belt_Cover` and use our `Panel_Z_Belt Cover`:
 
 > The route Z Belt Cover comes from tanaes's [whopping_Voron_mods](https://github.com/tanaes/whopping_Voron_mods/tree/main/Z_belt_cable_cover/STL)
 
+
 ## Skirts
 
 Use `power_inlet_IECGS_1.2mm.stl` and skip other `power_inlet_*`
+
 
 ## Z Endstop
 
 Skip this folder, we use voron tap as z endstop. 
 
 
-
-## Voron Tap
+## VORON Tap
 
 Print these parts and follow offical tap guide.
 
 https://github.com/VoronDesign/Voron-Tap/tree/main/STLs
 
 Print `Tap_Upper_PCB_r2.stl` and skip other `Tap_Upper_*`
-
-
-
 
 
 ## Stealthburner
@@ -101,9 +103,8 @@ Print `Toolhead_Cable_Bridge.STL`
 Print `Toolhead_Can_Cable_Fix.stl`
 
 
-
 ## Disco Strick 
 
 Print 2pcs `LED_2020_x2.stl`
 
-> this mod comes from [Daylight](https://github.com/VoronDesign/Voron-Hardware/tree/master/Daylight/Disco_on_a_stick_XXL)
+> This mod comes from [Daylight](https://github.com/VoronDesign/Voron-Hardware/tree/master/Daylight/Disco_on_a_stick_XXL)
